@@ -1,0 +1,15 @@
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\LinkedlistDemo.csproj.AssemblyReference.cache
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\LinkedlistDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\LinkedlistDemo.AssemblyInfoInputs.cache
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\LinkedlistDemo.AssemblyInfo.cs
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\LinkedlistDemo.csproj.CoreCompileInputs.cache
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\bin\Debug\net6.0\LinkedlistDemo.exe
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\bin\Debug\net6.0\LinkedlistDemo.deps.json
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\bin\Debug\net6.0\LinkedlistDemo.runtimeconfig.json
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\bin\Debug\net6.0\LinkedlistDemo.dll
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\bin\Debug\net6.0\LinkedlistDemo.pdb
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\LinkedlistDemo.dll
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\refint\LinkedlistDemo.dll
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\LinkedlistDemo.pdb
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\LinkedlistDemo.genruntimeconfig.cache
+E:\BridgeLabz\LinkedlistDemo\LinkedlistDemo\obj\Debug\net6.0\ref\LinkedlistDemo.dll
